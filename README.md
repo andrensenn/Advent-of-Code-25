@@ -6,7 +6,7 @@ Which day has it's own seperate folder.
 ## Total stars: 5 :star:
 Day 1 :star:
 
-Day 2 :star:
+Day 2 :star::star:
 
 Day 3 :star:
 
